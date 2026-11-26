@@ -1,0 +1,2 @@
+t,p,mean_gap_hours,cohen_d,conclusion
+45.123095093109875,0.0,6.63281604370686,0.5519300881877048,Reject equal means at alpha=0.05
